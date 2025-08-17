@@ -1,0 +1,33 @@
+{
+  "name": "webside-cloner",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "bun run index.ts",
+    "dev": "bun --watch index.ts",
+    "serve": "bunx serve"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^11.1.0",
+    "dotenv": "^16.3.1",
+    "fs-extra": "^11.2.0",
+    "js-beautify": "^1.15.4",
+    "mime-types": "^2.1.35",
+    "openai": "^4.28.0",
+    "ora": "^7.0.1",
+    "puppeteer": "^24.16.2"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/fs-extra": "^11.0.4",
+    "@types/js-beautify": "^1.14.3",
+    "@types/mime-types": "^2.1.4"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
