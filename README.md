@@ -1,4 +1,4 @@
-# Website Cloner
+# Website Clone Tool
 
 A powerful AI-powered tool to clone any website with pixel-perfect matching using Puppeteer and OpenAI GPT-4. This tool leverages artificial intelligence to orchestrate the cloning process and handles modern web applications with complex JavaScript interactions.
 
