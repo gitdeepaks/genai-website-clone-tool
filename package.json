@@ -1,5 +1,5 @@
 {
-  "name": "webside-cloner",
+  "name": "website-cloner",
   "module": "index.ts",
   "type": "module",
   "private": true,

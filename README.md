@@ -97,7 +97,6 @@ If no folder name is provided, it will automatically generate one based on the h
 cloned-example-com/
 ├── index.html          # Main HTML file (beautified)
 ├── styles.css          # All CSS styles (beautified)
-├── README.md           # Auto-generated documentation
 ├── script-0.js         # Downloaded JavaScript files
 ├── script-1.js         # (if any external scripts)
 ├── image-1.jpg         # Downloaded images
