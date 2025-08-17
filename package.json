@@ -1,5 +1,5 @@
 {
-  "name": "website-cloner",
+  "name": "website-clone-tool",
   "module": "index.ts",
   "type": "module",
   "private": true,
